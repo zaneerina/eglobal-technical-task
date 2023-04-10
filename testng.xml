@@ -1,8 +1,13 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="GoogleSearchSuite">
+<suite name="GoogleTestsSuite">
     <test name="GoogleSearchTest">
         <classes>
-            <class name="GoogleSearchTest"/>
+            <class name="com.google.tests.GoogleSearchTest"/>
+        </classes>
+    </test>
+    <test name="GoogleSignInTest">
+        <classes>
+            <class name="com.google.tests.GoogleAuthenticationTest"/>
         </classes>
     </test>
 </suite>
