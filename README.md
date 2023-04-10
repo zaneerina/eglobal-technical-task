@@ -1,4 +1,4 @@
-# Test automation project - google.com automation
+# Test automation project - google.com automation for search and authetication
 The project demonstrates how to automate two simple tests web tests using Maven, Java, TestNG, and Selenium. This project uses the Page Object Model (POM) design pattern to make the code more maintainable and readable.
 ## Project Structure
 The project has the following structure:
