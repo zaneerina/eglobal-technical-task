@@ -1,0 +1,5 @@
+com/google/utils/SearchQueries.class
+com/google/tests/GoogleSearchTest.class
+com/google/tests/BaseTest.class
+com/google/tests/GoogleAuthenticationTest.class
+com/google/resources/AuthConfig.class

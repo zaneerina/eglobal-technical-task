@@ -1,8 +1,5 @@
-/Users/zaneerina/Desktop/eglabal-technical-task/src/test/java/com/example/tests/GoogleSearchTest.java
-/Users/zaneerina/Desktop/eglabal-technical-task/src/test/java/com/example/tests/reources/AuthConfig.java
-/Users/zaneerina/Desktop/eglabal-technical-task/src/test/java/com/example/tests/utils/SearchQueries.java
-/Users/zaneerina/Desktop/eglabal-technical-task/src/test/java/com/example/tests/BaseTest2.java
-/Users/zaneerina/Desktop/eglabal-technical-task/src/test/java/com/example/tests/LoginTest.java
-/Users/zaneerina/Desktop/eglabal-technical-task/src/test/java/com/example/tests/GmailLoginTest2.java
-/Users/zaneerina/Desktop/eglabal-technical-task/src/test/java/com/example/tests/GoogleSearchTest2.java
-/Users/zaneerina/Desktop/eglabal-technical-task/src/test/java/com/example/tests/utils/SearchData.java
+/Users/zaneerina/Desktop/eglobal-technical-task/src/test/java/com/google/tests/BaseTest.java
+/Users/zaneerina/Desktop/eglobal-technical-task/src/test/java/com/google/tests/GoogleSearchTest.java
+/Users/zaneerina/Desktop/eglobal-technical-task/src/test/java/com/google/utils/SearchQueries.java
+/Users/zaneerina/Desktop/eglobal-technical-task/src/test/java/com/google/resources/AuthConfig.java
+/Users/zaneerina/Desktop/eglobal-technical-task/src/test/java/com/google/tests/GoogleAuthenticationTest.java

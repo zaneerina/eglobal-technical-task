@@ -25,9 +25,11 @@ public class GoogleAuthenticationTest extends BaseTest {
 
     @Test()
     public void testLogin() {
+        // Step 1: Navigate to login page: https://accounts.google.com/signin
         LoginPage loginPage = new LoginPage(driver);
+        // Step 2: Enter a valid email and click next:
         loginPage.setEmail(email);
-        System.out.println(driver.getTitle());
+        // Step 3: Enter a valid password:
 //        loginPage.enterPassword(password); // cannot automate
     }
 

@@ -10,7 +10,7 @@ public class GoogleSearchTest extends BaseTest {
 
     @Test(dataProvider = "searchQueriesProvider")
     public void searchTest(String query)  {
-        // Step 1: Navigate to google.com
+        // Step 1: Navigate to homepage: https://www.google.com/
         HomePage homePage = new HomePage(driver);
 
         // Accept terms & conditions if required
